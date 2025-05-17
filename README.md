@@ -13,7 +13,7 @@ Projede yer alan algoritmalar şunlardır:
 - Vigenère Şifreleme
 - Yer Değiştirme (Transposition Cipher)
 - Yerine Koyma (Substitution Cipher)
-- Zikzak (Rail Fence Cipher)
+- Zigzag (Rail Fence Cipher)
 
 
 
