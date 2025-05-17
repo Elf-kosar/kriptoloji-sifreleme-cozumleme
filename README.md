@@ -17,14 +17,15 @@ Projede yer alan algoritmalar şunlardır:
 
 
 
-![image](https://github.com/user-attachments/assets/0e8b7d3f-05cd-42f0-9e00-3e572c884e5d)
-
-
-
-
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/3e06cb9f-cbae-4e35-a76a-f9518f22fb58)
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/0e8b7d3f-05cd-42f0-9e00-3e572c884e5d)
