@@ -5,7 +5,7 @@ Bu Python projesi, kriptoloji alanında kullanılan çeşitli klasik şifreleme 
 Projede yer alan algoritmalar şunlardır:
 
 - Doğrusal Şifreleme (Affine)
-- Hill Şifreleme (2x2 matris)
+- Hill Şifreleme
 - Dört Kare (Four Square Cipher)
 - Kaydırmalı Şifreleme (Caesar)
 - Permütasyon (Sayı Anahtarlı Yer Değiştirme)
