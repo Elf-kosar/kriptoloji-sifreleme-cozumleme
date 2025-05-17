@@ -1,7 +1,7 @@
-#Kriptoloji Algoritmalarıyla Şifreleme ve Çözümleme Uygulaması
+# Kriptoloji Algoritmalarıyla Şifreleme ve Çözümleme Uygulaması
 Bu Python projesi, kriptoloji alanında kullanılan çeşitli klasik şifreleme algoritmalarını bir araya getirerek kullanıcıya hem şifreleme hem de çözümleme işlemlerini yapma imkânı sunar.
 
-#Kullanılan Şifreleme Algoritmaları
+# Kullanılan Şifreleme Algoritmaları
 1- Projede yer alan algoritmalar şunlardır:
 2- Doğrusal Şifreleme (Affine)
 3- Hill Şifreleme (2x2 matris)
