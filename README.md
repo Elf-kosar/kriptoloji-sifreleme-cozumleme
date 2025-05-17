@@ -2,17 +2,18 @@
 Bu Python projesi, kriptoloji alanında kullanılan çeşitli klasik şifreleme algoritmalarını bir araya getirerek kullanıcıya hem şifreleme hem de çözümleme işlemlerini yapma imkânı sunar.
 
 # Kullanılan Şifreleme Algoritmaları
-1- Projede yer alan algoritmalar şunlardır:
-2- Doğrusal Şifreleme (Affine)
-3- Hill Şifreleme (2x2 matris)
-4- Dört Kare (Four Square Cipher)
-5- Kaydırmalı Şifreleme (Caesar)
-6- Permütasyon (Sayı Anahtarlı Yer Değiştirme)
-7- Rota Şifreleme (Route Cipher)
-8- Vigenère Şifreleme
-9- Yer Değiştirme (Transposition Cipher)
-10- Yerine Koyma (Substitution Cipher)
-11- Zikzak (Rail Fence Cipher)
+Projede yer alan algoritmalar şunlardır:
+
+- Doğrusal Şifreleme (Affine)
+- Hill Şifreleme (2x2 matris)
+- Dört Kare (Four Square Cipher)
+- Kaydırmalı Şifreleme (Caesar)
+- Permütasyon (Sayı Anahtarlı Yer Değiştirme)
+- Rota Şifreleme (Route Cipher)
+- Vigenère Şifreleme
+- Yer Değiştirme (Transposition Cipher)
+- Yerine Koyma (Substitution Cipher)
+- Zikzak (Rail Fence Cipher)
 
 
 
